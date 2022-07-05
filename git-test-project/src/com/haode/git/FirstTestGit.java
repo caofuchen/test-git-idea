@@ -10,5 +10,7 @@ public class FirstTestGit {
     public void addMethod(){
         System.out.println("第一次提交后，新添加了一个方法");
         System.out.println("第二次修改后，又添加了一个输出");
+        System.out.println(111111);
+        System.out.println(2222);
     }
 }
